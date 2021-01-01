@@ -1,2 +1,2 @@
 # adventures-in-machine-learning
-ML experimentation
+ML experiments using tensorflow in Google Colab
